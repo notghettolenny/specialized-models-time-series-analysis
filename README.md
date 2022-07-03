@@ -1,6 +1,7 @@
-# TimeSeriesAnalysis
+# SpecializedModelsTimeSeriesAnalysis
 
-For this we're using data from the Federal Reserve Economic Database (FRED) concerning Electricity and Gas Utilities Production from January 1992 to January 2019 (325 records).
+
+Using data from the Federal Reserve Economic Database (FRED) concerning Electricity and Gas Utilities Production from January 1992 to January 2019 (325 records).
 
 Data source: https://fred.stlouisfed.org/series/IPG2211A2N
 
